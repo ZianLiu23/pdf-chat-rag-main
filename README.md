@@ -3,11 +3,11 @@
 把任意 PDF 变成可交互对话。上传文档后，即可用自然语言提问，基于 RAG 与大模型获取答案。
 
 - 项目唯一标识：`pdf-chat-rag-qa-rag-system-zianliu-2026`
-- GitHub 项目名：`PDF Chat （基于 RAG 的问答系统）`
+- GitHub 项目名：`PDF Chat （基于 RAG 的问答系统）`（课程交付版，避免与同类项目重名）
 
 ## 🌟 在线演示
 
-- 演示地址：[https://pdf-chat-rag-fx5nczbrwczzpou6qyczmj.streamlit.app/](https://pdf-chat-rag-fx5nczbrwczzpou6qyczmj.streamlit.app/)
+- 演示地址：[https://pdf-chat-rag-main-sn9xrsf7i7expavs9vid2v.streamlit.app/](https://pdf-chat-rag-main-sn9xrsf7i7expavs9vid2v.streamlit.app/)
 - 注意：需要一个免费的 DeepSeek API Key，可在 [https://platform.deepseek.com/api_keys](https://platform.deepseek.com/api_keys) 创建。
 
 ## ✨ 功能特性
@@ -157,3 +157,4 @@ docs = vector_store.similarity_search(
 - 手机号：13607717765
 - 邮箱：867012264@qq.com
 
+如果这个项目对你有帮助，欢迎点一个 Star。
