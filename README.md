@@ -8,7 +8,7 @@
 ## 🌟 在线演示
 
 - 演示地址：[https://pdf-chat-rag-main-sn9xrsf7i7expavs9vid2v.streamlit.app/](https://pdf-chat-rag-main-sn9xrsf7i7expavs9vid2v.streamlit.app/)
-- 注意：需要一个免费的 DeepSeek API Key，可在 [https://platform.deepseek.com/api_keys](https://platform.deepseek.com/api_keys) 创建。
+- 注意：需要一个免费的 DeepSeek API Key（目前用的个人 api key），可在 [https://platform.deepseek.com/api_keys](https://platform.deepseek.com/api_keys) 创建。
 
 ## ✨ 功能特性
 
