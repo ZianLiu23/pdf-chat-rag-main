@@ -8,7 +8,7 @@ from PyPDF2 import PdfReader
 
 # 页面配置
 st.set_page_config(
-    page_title="PDF Chat RAG · 子安交付版",
+    page_title="PDF Chat （基于 RAG 的问答系统）",
     page_icon="📄",
     layout="wide"
 )
@@ -32,7 +32,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # 标题
-st.markdown('<p class="main-header">📄 PDF Chat RAG · 子安交付版</p>', unsafe_allow_html=True)
+st.markdown('<p class="main-header">📄 PDF Chat （基于 RAG 的问答系统）</p>', unsafe_allow_html=True)
 st.markdown('<p class="subtitle">上传 PDF 后即可提问，由 RAG 与 LangChain 驱动</p>', unsafe_allow_html=True)
 
 # 侧边栏
