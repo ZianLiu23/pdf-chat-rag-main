@@ -8,7 +8,7 @@ from PyPDF2 import PdfReader
 
 # 页面配置
 st.set_page_config(
-    page_title="PDF 对话助手", 
+    page_title="PDF Chat RAG · 子安交付版",
     page_icon="📄",
     layout="wide"
 )
@@ -32,7 +32,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # 标题
-st.markdown('<p class="main-header">📄 与你的 PDF 对话</p>', unsafe_allow_html=True)
+st.markdown('<p class="main-header">📄 PDF Chat RAG · 子安交付版</p>', unsafe_allow_html=True)
 st.markdown('<p class="subtitle">上传 PDF 后即可提问，由 RAG 与 LangChain 驱动</p>', unsafe_allow_html=True)
 
 # 侧边栏
@@ -80,7 +80,7 @@ with st.sidebar:
     st.markdown("邮箱：867012264@qq.com")
     
     st.markdown("---")
-    st.markdown("*© 2025 - 开源且免费使用*")
+    st.markdown("*© 2026年4月 - 开源且免费使用*")
 
 # 初始化会话状态
 if "messages" not in st.session_state:
