@@ -3,7 +3,7 @@
 把任意 PDF 变成可交互对话。上传文档后，即可用自然语言提问，基于 RAG 与大模型获取答案。
 
 - 项目唯一标识：`pdf-chat-rag-qa-rag-system-zianliu-2026`
-- GitHub 项目名：`PDF Chat （基于 RAG 的问答系统）`（课程交付版，避免与同类项目重名）
+- GitHub 项目名：`PDF Chat （基于 RAG 的问答系统）`
 
 ## 🌟 在线演示
 
@@ -157,4 +157,3 @@ docs = vector_store.similarity_search(
 - 手机号：13607717765
 - 邮箱：867012264@qq.com
 
-如果这个项目对你有帮助，欢迎点一个 Star。
